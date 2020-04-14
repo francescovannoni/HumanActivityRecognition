@@ -34,3 +34,6 @@ https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.
 
 To make a pretty plot of the confusion matrix ->  
 https://github.com/DTrimarchi10/confusion_matrix  
+
+To generate TSNE ->  
+https://github.com/berenslab/rna-seq-tsne
